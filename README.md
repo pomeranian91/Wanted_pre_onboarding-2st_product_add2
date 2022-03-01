@@ -1,12 +1,10 @@
 # **(☞ ﾟヮﾟ)☞ PRODUCT_ADD☜(ﾟヮﾟ ☜)**
 
-15팀 과제
-
 # **༼ つ ◕*◕ ༽つ TEAM*총대장님과 아이들 | 과제**
 
 ## **👫 팀원**
 
-- 조용우 외 3
+- 조용우 외 3명
 - 배포주소 : [https://hardcore-shannon-4293b9.netlify.app/](https://hardcore-shannon-4293b9.netlify.app/)
 - Front-end: React(Funiction-Component)_reactr-router-dom(V6), CSS Module, JavaScript(ES6)
 - 협업툴: Slack, Notion, Github
